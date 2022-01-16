@@ -26,37 +26,10 @@ function Header() {
             {/* Logo */}
             <Link href="/">
               <a
-                className="text-2xl font-bold text-gray-800 transition-colors duration-200 transform dark:text-white lg:text-3xl hover:text-gray-700 dark:hover:text-gray-300"
+                className="text-2xl font-bold text-gray-800 transition-colors duration-200 transform dark:text-gray-800 lg:text-3xl hover:text-gray-700 dark:hover:text-gray-300"
                 aria-label="Cruip"
               >
                 &apos;Ehukai
-                {/* <svg
-                  className="w-8 h-8"
-                  viewBox="0 0 32 32"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <defs>
-                    <radialGradient
-                      cx="21.152%"
-                      cy="86.063%"
-                      fx="21.152%"
-                      fy="86.063%"
-                      r="79.941%"
-                      id="header-logo"
-                    >
-                      <stop stopColor="#4FD1C5" offset="0%" />
-                      <stop stopColor="#81E6D9" offset="25.871%" />
-                      <stop stopColor="#338CF5" offset="100%" />
-                    </radialGradient>
-                  </defs>
-                  <rect
-                    width="32"
-                    height="32"
-                    rx="16"
-                    fill="url(#header-logo)"
-                    fillRule="nonzero"
-                  />
-                </svg> */}
               </a>
             </Link>
           </div>
