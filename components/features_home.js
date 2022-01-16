@@ -181,7 +181,7 @@ function Features() {
                 >
                   <div className="relative inline-flex flex-col">
                     <Image
-                      className="md:max-w-none mx-auto rounded"
+                      className="md:max-w-none mx-auto rounded-lg shadow-2xl"
                       src="https://images.unsplash.com/photo-1635937583402-a76dd7e6f274?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=100"
                       width="500"
                       height="462"
@@ -203,7 +203,7 @@ function Features() {
                 >
                   <div className="relative inline-flex flex-col">
                     <Image
-                      className="md:max-w-none mx-auto rounded"
+                      className="md:max-w-none mx-auto rounded-lg shadow-2xl"
                       src="https://images.unsplash.com/photo-1621506821957-1b50ab7787a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=100"
                       width="500"
                       height="462"
@@ -225,7 +225,7 @@ function Features() {
                 >
                   <div className="relative inline-flex flex-col">
                     <Image
-                      className="md:max-w-none mx-auto rounded"
+                      className="md:max-w-none mx-auto rounded-lg shadow-2xl"
                       src="https://images.unsplash.com/photo-1590529989936-f6efdf774c23?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=100"
                       width="500"
                       height="462"

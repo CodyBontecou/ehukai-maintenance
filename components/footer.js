@@ -148,25 +148,7 @@ function Footer() {
               </Link>
             </li>
           </ul>
-
-          {/* Copyrights note */}
-          <div className="text-sm text-gray-600 mr-4">
-            Made by{' '}
-            <a
-              className="text-yellow-900 hover:underline"
-              href="https://codybontecou.com/"
-            >
-              Cody Bontecou
-            </a>{' '}
-            and{' '}
-            <a
-              href="https://cruip.com/"
-              className="text-yellow-900 hover:underline"
-            >
-              Cruip
-            </a>
-            . All rights reserved.
-          </div>
+          <div></div>
         </div>
       </div>
     </footer>
