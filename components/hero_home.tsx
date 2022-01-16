@@ -47,7 +47,7 @@ function HeroHome() {
               data-aos="zoom-y-out"
             >
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-yellow-700 to-amber-900">
-                'Ehukai{' '}
+                &apos;Ehukai{' '}
               </span>
               General Maintenance
               {/* Make your website{' '}

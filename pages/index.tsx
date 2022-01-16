@@ -9,7 +9,7 @@ const Home: NextPage = () => {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 sm:static">
           <div className="sm:max-w-lg">
             <h1 className="text-4xl font font-extrabold tracking-tight text-gray-900 sm:text-5xl">
-              'Ehukai <br /> General Maintenance
+              &apos;Ehukai <br /> General Maintenance
             </h1>
             <p className="mt-4 text-xl text-gray-500">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi

@@ -29,7 +29,7 @@ function Header() {
                 className="text-2xl font-bold text-gray-800 transition-colors duration-200 transform dark:text-white lg:text-3xl hover:text-gray-700 dark:hover:text-gray-300"
                 aria-label="Cruip"
               >
-                'Ehukai
+                &apos;Ehukai
                 {/* <svg
                   className="w-8 h-8"
                   viewBox="0 0 32 32"

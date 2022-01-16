@@ -12,7 +12,9 @@ function Footer() {
             <div className="mb-2">
               {/* Logo */}
               <Link href="/" className="inline-block" aria-label="Cruip">
-                <span className="font-bold">'Ehukai General Maintenance</span>
+                <span className="font-bold">
+                  &apos;Ehukai General Maintenance
+                </span>
               </Link>
             </div>
             <div className="text-sm text-gray-600">
