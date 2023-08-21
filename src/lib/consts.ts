@@ -1,1 +1,1 @@
-export const baseUrl = 'https://ehukai-maintenance-server.fly.dev'
+export const baseUrl = ''
