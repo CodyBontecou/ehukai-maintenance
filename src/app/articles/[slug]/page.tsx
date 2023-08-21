@@ -26,7 +26,7 @@ export default async function Article({
             /* @ts-ignore */
             return <ReactMarkdown>{block.body}</ReactMarkdown>
           case 'shared.media':
-            return <img src={`${baseUrl}${block.file?.data.attributes.url}`} />
+            return <img src={`${block.file?.data.attributes.url}`} />
           case 'shared.quote':
             console.log('quote')
             break

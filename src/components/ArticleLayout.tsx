@@ -69,10 +69,7 @@ export function ArticleLayout({
             {article.attributes.cover && (
               <img
                 className="mt-20"
-                src={
-                  baseUrl +
-                  article.attributes.cover.data.attributes.url
-                }
+                src={article.attributes.cover.data.attributes.url}
                 alt={article.attributes.cover.data.attributes.caption}
               />
             )}
