@@ -246,7 +246,7 @@ function Avatar({
       aria-label="Home"
       className={clsx(
         className,
-        'flex justify-center items-center pointer-events-auto',
+        'flex justify-center items-center h-full pointer-events-auto',
       )}
       {...props}
     >
