@@ -78,7 +78,6 @@ interface ImageAttributes {
 export async function getAllArticles() {
   const { data } = await axios.get(`${baseUrl}/api/articles?populate[0]=blocks`)
   const articles: Article[] = data.data
-  console.log(articles)
 
   return articles.sort(
     (a, z) =>
