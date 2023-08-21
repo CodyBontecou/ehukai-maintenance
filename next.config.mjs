@@ -4,6 +4,9 @@ import remarkGfm from 'remark-gfm'
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  images: {
+    domains: ['localhost'],
+  },
   pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'mdx'],
 }
 
