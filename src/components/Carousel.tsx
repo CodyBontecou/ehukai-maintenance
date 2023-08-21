@@ -26,7 +26,7 @@ export function Carousel({ block }: { block: Block }) {
           <div
             style={{
               ...divStyle,
-              backgroundImage: `url(${baseUrl}${file.attributes.url})`,
+              backgroundImage: `url(${file.attributes.url})`,
             }}
           ></div>
         </div>
