@@ -5,7 +5,11 @@ import remarkGfm from 'remark-gfm'
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ['localhost'],
+    domains: [
+      'localhost',
+      'ehukai-maintenance-server.fly.dev',
+      'res.cloudinary.com',
+    ],
   },
   pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'mdx'],
 }
